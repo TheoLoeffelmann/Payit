@@ -1,0 +1,9 @@
+C:\Practicas C#\Payit\Entidades\bin\Debug\Entidades.dll
+C:\Practicas C#\Payit\Entidades\bin\Debug\Entidades.pdb
+C:\Practicas C#\Payit\Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Practicas C#\Payit\Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Practicas C#\Payit\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Practicas C#\Payit\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Practicas C#\Payit\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Practicas C#\Payit\Entidades\obj\Debug\Entidades.dll
+C:\Practicas C#\Payit\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,13 @@
+C:\Practicas C#\Payit\Negocio\bin\Debug\Negocio.dll
+C:\Practicas C#\Payit\Negocio\bin\Debug\Negocio.pdb
+C:\Practicas C#\Payit\Negocio\bin\Debug\Datos.dll
+C:\Practicas C#\Payit\Negocio\bin\Debug\Entidades.dll
+C:\Practicas C#\Payit\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Practicas C#\Payit\Negocio\bin\Debug\Datos.pdb
+C:\Practicas C#\Payit\Negocio\bin\Debug\Entidades.pdb
+C:\Practicas C#\Payit\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Practicas C#\Payit\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Practicas C#\Payit\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Practicas C#\Payit\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Practicas C#\Payit\Negocio\obj\Debug\Negocio.dll
+C:\Practicas C#\Payit\Negocio\obj\Debug\Negocio.pdb

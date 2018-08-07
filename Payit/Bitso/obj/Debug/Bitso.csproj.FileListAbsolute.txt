@@ -1,0 +1,16 @@
+C:\Practicas C#\Payit\Bitso\bin\Debug\Bitso.exe.config
+C:\Practicas C#\Payit\Bitso\bin\Debug\Bitso.exe
+C:\Practicas C#\Payit\Bitso\bin\Debug\Bitso.pdb
+C:\Practicas C#\Payit\Bitso\bin\Debug\Entidades.dll
+C:\Practicas C#\Payit\Bitso\bin\Debug\Negocio.dll
+C:\Practicas C#\Payit\Bitso\bin\Debug\Newtonsoft.Json.dll
+C:\Practicas C#\Payit\Bitso\bin\Debug\Entidades.pdb
+C:\Practicas C#\Payit\Bitso\bin\Debug\Negocio.pdb
+C:\Practicas C#\Payit\Bitso\bin\Debug\Newtonsoft.Json.xml
+C:\Practicas C#\Payit\Bitso\obj\Debug\Bitso.csprojAssemblyReference.cache
+C:\Practicas C#\Payit\Bitso\obj\Debug\Bitso.csproj.CoreCompileInputs.cache
+C:\Practicas C#\Payit\Bitso\obj\Debug\Bitso.csproj.CopyComplete
+C:\Practicas C#\Payit\Bitso\obj\Debug\Bitso.exe
+C:\Practicas C#\Payit\Bitso\obj\Debug\Bitso.pdb
+C:\Practicas C#\Payit\Bitso\bin\Debug\Datos.dll
+C:\Practicas C#\Payit\Bitso\bin\Debug\Datos.pdb
