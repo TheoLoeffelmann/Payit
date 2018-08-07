@@ -34,8 +34,7 @@ namespace Negocio
         }
 
         public void AccionesPpal()
-        {
-            
+        {            
             int iOpc = 0;
             Console.Clear();
             //mandamos la opcion que le corresponde de acuerdo al valor de la opcion seleccionada anteriormente

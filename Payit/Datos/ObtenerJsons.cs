@@ -17,7 +17,7 @@ namespace Datos
     public class ObtenerJsons : ObtenerJson
     {     
         public string url { get; set; }
-
+        
         public string GetJson()
         {
             return new WebClient().DownloadString(url);

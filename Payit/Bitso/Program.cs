@@ -67,8 +67,6 @@ namespace Bitso
                         string sBook = GetLibro(iOpcSec);
                         if (iOpcSec > 0 && iOpcSec < 12)
                         {
-                            //colocar url
-
                             resultados.MostrarResultado(sUrl, iOpcPpal, sBook);
                             iResp = Convert.ToInt16(Console.ReadLine());
                             //if (iResp == 22) { }
@@ -79,7 +77,6 @@ namespace Bitso
                             iOpcPpal = 0;
                         }
                         else { Console.WriteLine("No selecciono opción válida"); }
-
                     }
 
                 }

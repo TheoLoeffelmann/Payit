@@ -36,8 +36,7 @@ namespace Datos
             t.low = result[6].First.ToString();
             t.ask = result[7].First.ToString();
             t.bid = result[8].First.ToString();
-            list.Add(t);
-            
+            list.Add(t);            
             return list;
         }
 
